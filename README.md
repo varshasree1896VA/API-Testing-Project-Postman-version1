@@ -1,4 +1,4 @@
-# API Testing Practice Project
+# API Testing Practice Project -V1
 
 This is a beginner-friendly project for practicing API testing using **Postman**. It covers 14 public APIs provided by [Automation Exercise](https://automationexercise.com/api) for various HTTP methods like GET, POST, PUT, and DELETE.
 
